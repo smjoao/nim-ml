@@ -1,0 +1,17 @@
+               _   _ ___ __  __           __  __ _
+              | \ | |_ _|  \/  |  _____  |  \/  | |
+              |  \| || || |\/| | |_____| | |\/| | |
+              | |\  || || |  | |         | |  | | |___
+              |_| \_|___|_|  |_|         |_|  |_|_____|
+
+Created by João Pedro T. L. Seda - UFRJ Computer Science Student (2018)
+
+NIM-ML is a basic Machine Learning program made in pyhton that plays 21 Nim.
+
+In 21 Nim, the game starts with a line of 21 pieces, then two players take turns
+removing up to three pieces from that line. The player who takes the last piece
+loses the game.
+
+The more you play with NIM-ML, the smarter it gets (in theory...).
+
+Press Enter to play with NIM-ML...
