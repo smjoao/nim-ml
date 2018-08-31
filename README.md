@@ -24,5 +24,8 @@ or use any Python interpreter you may have.
 
 Make sure all other files from the repository are in the same directory as `nim_ml.py`!
 
+## License
+NIM-ML is [unlicensed](./LICENSE)
+
 ## Feedback
 Feel free to send me any feedback or suggestions to my email: joao.ptlseda@gmail.com
