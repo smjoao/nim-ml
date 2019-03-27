@@ -6,7 +6,7 @@ Every time it wins a game, NIM-ML will increase the chances of using the same mo
 Created by João Pedro T. L. Seda - UFRJ Computer Science student (2018) 
 
 ## 21 Nim
-If you don't know, 21 Nim is a very simple subtraction game. The game starts with a line of 21 pieces, then two players take turns removing up to three pieces from that line. The player who takes the last piece loses the game.
+21 Nim is a very simple subtraction game. The game starts with a line of 21 pieces, then two players take turns removing up to three pieces from that line. The player who takes the last piece loses the game.
 
 If you want to learn more about Nim variations and subtraction games, you can access [Nim's wikipedia page](https://en.wikipedia.org/wiki/Nim)
 
@@ -28,4 +28,4 @@ Make sure all other files from the repository are in the same directory as `nim_
 NIM-ML is [unlicensed](./LICENSE)
 
 ## Feedback
-Feel free to send me any feedback or suggestions to my email: joao.ptlseda@gmail.com
+Feel free to send me any feedback or suggestions to my email: joao_ps@dcc.ufrj.br
